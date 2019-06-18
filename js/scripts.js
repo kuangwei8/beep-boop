@@ -28,6 +28,7 @@ $(document).ready(function(){
         $("#output").append(i+",");
       }
     }
+    console.log(event);
 
 
   });

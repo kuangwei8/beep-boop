@@ -5,3 +5,15 @@
 #level2 {
   display: none;
 } */
+
+
+.jumbotron{
+  background-image: url(../img/spongebob.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body{
+  background-image: url(../img/spg2.jpg);
+  background-size: cover;
+}
